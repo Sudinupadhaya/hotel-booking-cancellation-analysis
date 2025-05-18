@@ -10,7 +10,7 @@ The objective of this project is to analyze hotel booking data to identify key p
 - Does room assignment (desired vs undesired) affect cancellations?
 - Are there seasonal trends in cancellations?
 - How do trends differ across years?
-- Dashboard Interaction <a href="(https://github.com/Sudinupadhaya/hotel-booking-cancellation-analysis/blob/main/Hotel%20Booking%20Cancellation.pdf)">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Sudinupadhaya/hotel-booking-cancellation-analysis/blob/main/Hotel%20Booking%20Cancellation.pdf">View Dashboard</a>
 ## Process
 - Import and understand the dataset, load the hotel booking dataset into excel.
 - Data cleaning , make sure data is consistent and clean with respect to data type, data format and values used.
